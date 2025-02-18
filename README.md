@@ -33,7 +33,7 @@ Above are the screenshots of my code
 
 ### Links
 
-- Solution URL: [GitHub Link]()
+- Solution URL: [GitHub Link](https://github.com/Othniel-Nduka/gridSectionTestimonials)
 - Live Site URL: [Live Site](https://grid-section-testimonials.vercel.app/)
 
 ## My process
